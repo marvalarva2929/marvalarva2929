@@ -21,6 +21,6 @@ I'm also heavily involved in Robotics, specifically FRC Team 5417. First robotic
 
 ### Personal Projects
 
-To me, Computer Science is an art, and I beleive everyone should have an opportunity to use it to express their creativity. It's why I started the "Inclusive Computing Initiative", a project that aims to give children with mental disabilities access to Computer Science education. You can learn more on our webiste at: https://www.csforspecialed.com/
+To me, Computer Science is an art, and I beleive everyone should have an opportunity to use it to express their creativity. It's why I started the "Inclusive Computing Initiative", a project that aims to give children with mental disabilities access to Computer Science education. You can learn more on our webiste at: https://inclusivecompute.org/
 
 I'm also the Vice President of Communications at Toys For Texans, an entirely student-led non-profit organization. I've been a part of it for over a year and I've witnessed it's growth as our revenues have skyrocketed and our impact has grown. It's a group I'm proud to be in, and I hope it inspires you to make a change in your world. Learn more about us at https://www.toysfortexans.org/.
