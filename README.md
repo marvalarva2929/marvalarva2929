@@ -1,5 +1,5 @@
 
-# My name is Joshua Vigel! 
+# Welcome!
 
 #### Computer Science has been a passion of mine for years, and it's my goal to use it to make the world a better place.
 
