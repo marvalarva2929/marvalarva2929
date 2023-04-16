@@ -11,7 +11,8 @@ Some of my interests include:
 
 ### Competitive Programming
 
-In regards to competitive programming, you can see my codeforces profile here: https://codeforces.com/profile/marvalarva2929
+In regards to competitive programming, you can see my codeforces profile here: https://codeforces.com/profile/marvalarva2929.
+
 I'm also ranked Silver in USACO (http://usaco.org/), an extremely prestigious competitive programming competition! 
 
 ### Robotics
