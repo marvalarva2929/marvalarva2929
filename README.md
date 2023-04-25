@@ -3,13 +3,22 @@
 
 #### Computer Science has been a passion of mine for years, and it's my goal to use it to make the world a better place.
 
-Some of my interests include:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvalarva2929/>
+
+## Some of my interests include:
 
 * Competitive Programming
 * Robotics
 * Web Design
 
+## Some of my skills include
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
+
 
 ### Competitive Programming
 
