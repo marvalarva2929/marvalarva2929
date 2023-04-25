@@ -3,7 +3,7 @@
 
 #### Computer Science has been a passion of mine for years, and it's my goal to use it to make the world a better place.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvalarva2929/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvalarva2929"/>
 
 ## Some of my interests include:
 
