@@ -9,6 +9,9 @@ Some of my interests include:
 * Robotics
 * Web Design
 
+<img src="{[BadgeURLHere](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)}" />
+
 ### Competitive Programming
 
 In regards to competitive programming, you can see my codeforces profile here: https://codeforces.com/profile/marvalarva2929.
