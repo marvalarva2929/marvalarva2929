@@ -1,9 +1,8 @@
 
-# Welcome!
+# Hello!
 
 #### Computer Science has been a passion of mine for years, and it's my goal to use it to make the world a better place.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvalarva2929"/>
 
 ## Some of my interests include:
 
@@ -19,6 +18,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvalarva2929"/>
 
 ### Competitive Programming
 
