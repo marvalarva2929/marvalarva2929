@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvalarva2929"/>
-
 ### Competitive Programming
 
 In regards to competitive programming, you can see my codeforces profile here: https://codeforces.com/profile/marvalarva2929.
