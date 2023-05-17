@@ -23,9 +23,15 @@
 
 ### Competitive Programming
 
+#### USACO
+
 In regards to competitive programming, you can see my codeforces profile here: https://codeforces.com/profile/marvalarva2929.
 
 I'm also ranked Silver in USACO (http://usaco.org/), an extremely prestigious competitive programming competition! 
+
+#### Cybersecurity
+
+I compted in the PicoCTF 2023 competition, ranking within the top 100 teams in the US. It was a great experience and I'm excited to do even better next year!
 
 ### Robotics
 
