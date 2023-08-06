@@ -8,7 +8,7 @@
 
 * Competitive Programming
 * Robotics
-* Web Design
+* Writing about philosophy
 
 ## Some of my skills include
 
@@ -25,6 +25,10 @@
 
 In regards to competitive programming, you can see my codeforces profile here: https://codeforces.com/profile/marvalarva2929.
 I'm also ranked Silver in USACO (http://usaco.org/), an extremely prestigious competitive programming competition! 
+
+### Writing
+
+I also enjoy writing about philosophical topics in my free time. Nothing too eliquent but I like to share some of my thoughts sometimes :)
 
 ### Cybersecurity
 
