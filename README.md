@@ -1,47 +1,70 @@
+# Getting Started with Create React App
 
-# Hello!
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### Computer Science has been a passion of mine for years, and it's my goal to use it to make the world a better place.
+## Available Scripts
 
+In the project directory, you can run:
 
-## Some of my interests include:
+### `npm start`
 
-* Competitive Programming
-* Robotics
-* Writing about philosophy
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Some of my skills include
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
-</p>
+### `npm test`
 
-### Competitive Programming
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-In regards to competitive programming, you can see my codeforces profile here: https://codeforces.com/profile/marvalarva2929.
-I'm also ranked Silver in USACO (http://usaco.org/), an extremely prestigious competitive programming competition! 
+### `npm run build`
 
-### Writing
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-I also enjoy writing about philosophical topics in my free time. Nothing too eliquent but I like to share some of my thoughts sometimes :)
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Cybersecurity
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-I compted in the PicoCTF 2023 competition, ranking within the top 100 teams in the US. It was a great experience and I'm excited to do even better next year!
+### `npm run eject`
 
-### Robotics
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-I'm also heavily involved in Robotics, specifically FRC Team 5417. First robotics holds - and will always hold 💖 - a special place in my heart because it's what originally got me interested in Computer Science. I'd like to specifically thank FTC Team 7252 for the spark of passion they started in my life - a spark that has slowly grown into a wildfire and that I predict will soon consume me :D
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Personal Projects
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-To me, Computer Science is an art, and I beleive everyone should have an opportunity to use it to express their creativity. It's why I started the "Inclusive Computing Initiative", a project that aims to give children with mental disabilities access to Computer Science education. You can learn more on our webiste at: https://inclusivecompute.org/
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-I'm also the Vice President of Communications at Toys For Texans, an entirely student-led non-profit organization. I've been a part of it for over a year and I've witnessed it's growth as our revenues have skyrocketed and our impact has grown. We're currently the largest highschool-student run non-profit-organization in North Texas, and it's a group I'm proud to be in. It's my dearest hope that it inspires you to make a change in your world. Learn more about us at https://www.toysfortexans.org/.
+## Learn More
 
-I've also started dabbling in game developement. I'm by no means an expert, but feel free to check out my Platmorpher project in my pinned repositories. 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
