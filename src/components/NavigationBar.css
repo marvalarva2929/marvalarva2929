@@ -1,9 +1,0 @@
-.bg-body-tertiary {
-    --bs-bg-opacity: 0.4 !important;
-    height: 6vh;
-    padding-left: 2vw;
-    padding-right: 2vw;
-    padding-bottom: 1vh;
-    padding-top: 1vh;
-    border-bottom: black 1px solid;
-}
