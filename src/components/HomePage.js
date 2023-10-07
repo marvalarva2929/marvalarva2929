@@ -1,19 +1,20 @@
 import './HomePage.css'
 import Joker from './images/joker.jpeg'
+import { Fade } from 'react-reveal'
 
 const HomePage = () => {
     return (
         <> 
             <div className="home-wrapper"> 
+            <Fade bottom cascade duration="500">
                 <div className="home-left"> 
                     <img src={Joker}/>    
                     <h1> Hi 👋 </h1>
-                    <p> I'm Josh </p>
-                    <p> discord: marvalarva2929 </p>
-                    <p> github: marvalarva2929 </p>
-                    <p> joshvigel@gmail.com </p>
+                    <h4> I'm Josh </h4>
+                    <p> <i> Take it with a grain of salt </i> </p>
                 </div>
-
+            </Fade>
+            <Fade duration="500" delay="100">
                 <div className="home-right">
                    <h4> 
                     <i> “I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.” </i> - Isaac Newton
@@ -40,7 +41,8 @@ const HomePage = () => {
                     <p> 
                     This site is an attempt of a map of my own. A map that maybe you choose to reject as nonsense - which I fully expect to happen - or maybe look at with the same wonder as I did when I originally wrote it. Regardless, I'm glad you are here, and I hope you come back :)
                     </p>
-            </div>                     
+            </div>             
+        </Fade>
         </div>
     </>
     )

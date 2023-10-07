@@ -1,0 +1,30 @@
+.shell-wrapper {
+    width: 90vw;
+    display: flex;
+    margin: 0;
+    flex-direction: row;
+    position: absolute;
+}
+
+.shell-left {
+    width: 20vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+    height: 90vh;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+    border-radius: 15px;
+      background-color: rgb(255 255 255 / 0.05);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.shell-right {
+    width: 75vw;
+    padding-left: 7vw;
+    padding-right: 7vw;
+    padding-top: 5vh;
+}
+

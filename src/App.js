@@ -2,13 +2,22 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NavigationBar from './components/NavigationBar.js'
 import HomePage from './components/HomePage.js'
+import { HashRouter, Routes, Route } from "react-router-dom";
+import Shell from './components/Shell.js'
+import AboutPage from './components/AboutPage.js'
 
 function App() {
   return (
     <div className="App">
-        <NavigationBar/>
-        <HomePage/>
-    </div>
+          <HashRouter> 
+            <NavigationBar/>
+            <Shell/>
+            <Routes>
+                <Route index element = {<HomePage/>}/>
+                <Route path = "/about" element = {<AboutPage/>}/>
+            </Routes>
+      </HashRouter>
+      </div>
   );
 }
 

@@ -3,11 +3,17 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Form from 'react-bootstrap/Form';
 import './NavigationBar.css'
+import { Link } from "react-router-dom";
+import Github from './images/github.webp'
 
 const NavigationBar = () => (
     <Navbar expand="lg" className="bg-body-tertiary" data-bs-theme="dark">
       <Container fluid>
-        <Navbar.Brand href="#">marvalarva2929</Navbar.Brand>
+        <Navbar.Brand as = {Link} to = {"/"} >
+    {
+        //<a href="https://github.com/marvalarva2929"> <img src = {Github} width="40vw" style={{marginRight: "1vw"}}/> </a>
+    }
+    marvalarva2929</Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
         <Navbar.Collapse id="navbarScroll">
           <Nav
@@ -15,9 +21,10 @@ const NavigationBar = () => (
             style={{ maxHeight: '100px' }}
             navbarScroll
           >
-            <Nav.Link href="#action1">About</Nav.Link>
-            <Nav.Link href="#action2">Projects</Nav.Link>
-            <Nav.Link href="#action2">Blog</Nav.Link>
+              <Nav.Link as = {Link} to = {"/about"} className = "px-4"> <p className='link'> About </p> </Nav.Link>
+              <Nav.Link as = {Link} to = {"/projects"} className = "px-4"> <p className='link'> Projects </p> </Nav.Link>
+              <Nav.Link as = {Link} to = {"/blog"} className = "px-4"> <p className='link'> Blog </p> </Nav.Link>
+
           </Nav>
           <Form className="d-flex">
             <Form.Control
