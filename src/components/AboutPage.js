@@ -22,7 +22,6 @@ const AboutPage = () => {
                 </div>
             <Fade duration="500" delay="100">
                 <div className="about-right">
-                    <div className="text-wrapper">
                     <p> 
                     Hey! My name is Josh, and I'm currently a Junior in High School. I love to learn about the world and create things to benefit it. I've recently been trying to write more about some of my thoughts, hence the creation of this site. You can check out the "blogs" tab above to check out my stuff!
                     </p>
@@ -46,7 +45,6 @@ const AboutPage = () => {
                     <p>
                     I'm sure that now you've heard so much about me, you are dying to reach out. No worries! You can contact me on discord @marvalarva2929, or email me at joshvigel@gmail.com.
                     </p>
-                </div>
             </div>             
         </Fade>
         </div>

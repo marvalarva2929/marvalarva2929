@@ -1,0 +1,7 @@
+.bg-body-tertiary * {
+    overflow: hidden !important;
+}
+
+.bg-body-tertiary {
+    overflow: hidden !important;
+}
