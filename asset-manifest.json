@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.12aed240.css",
-    "main.js": "/static/js/main.a82452c7.js",
-    "static/js/787.be58c4fc.chunk.js": "/static/js/787.be58c4fc.chunk.js",
-    "static/media/joker.jpeg": "/static/media/joker.a9eadd70ec3dbeed2b81.jpeg",
-    "index.html": "/index.html",
-    "main.12aed240.css.map": "/static/css/main.12aed240.css.map",
-    "main.a82452c7.js.map": "/static/js/main.a82452c7.js.map",
-    "787.be58c4fc.chunk.js.map": "/static/js/787.be58c4fc.chunk.js.map"
+    "main.css": "/marvalarva/static/css/main.fba19054.css",
+    "main.js": "/marvalarva/static/js/main.ea782c5e.js",
+    "static/js/787.be58c4fc.chunk.js": "/marvalarva/static/js/787.be58c4fc.chunk.js",
+    "static/media/persona.webp": "/marvalarva/static/media/persona.f4a5aa82fcdc036a2fe7.webp",
+    "static/media/twice.jpg": "/marvalarva/static/media/twice.983b77dfe65235b0c558.jpg",
+    "static/media/joker.jpeg": "/marvalarva/static/media/joker.a9eadd70ec3dbeed2b81.jpeg",
+    "static/media/book.jpg": "/marvalarva/static/media/book.b6a824cb31703581d538.jpg",
+    "static/media/github.webp": "/marvalarva/static/media/github.01eff38eed74df9221c7.webp",
+    "index.html": "/marvalarva/index.html",
+    "main.fba19054.css.map": "/marvalarva/static/css/main.fba19054.css.map",
+    "main.ea782c5e.js.map": "/marvalarva/static/js/main.ea782c5e.js.map",
+    "787.be58c4fc.chunk.js.map": "/marvalarva/static/js/787.be58c4fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12aed240.css",
-    "static/js/main.a82452c7.js"
+    "static/css/main.fba19054.css",
+    "static/js/main.ea782c5e.js"
   ]
 }
