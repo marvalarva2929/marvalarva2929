@@ -27,7 +27,6 @@
 }
 
 .about-left * {
-    padding-bottom: 0.5vh;
 }
 
 .about-left p {
@@ -40,9 +39,10 @@
 
 .about-left img {
     width: calc(5vw + 5vh + 1vmin);
-;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.4);
+    margin-bottom: 4vh; 
     height: auto;
-    padding-bottom: 4vh;
+    border-radius: 10px;
 }
 
 .about-right {
@@ -55,7 +55,7 @@
 }
 
 .about-right * {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: light;
     line-height: 2;
     text-align: left;

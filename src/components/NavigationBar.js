@@ -22,8 +22,8 @@ const NavigationBar = () => (
             navbarScroll
           >
               <Nav.Link as = {Link} to = {"/about"} className = "px-4"> <p className='link'> About </p> </Nav.Link>
-              <Nav.Link as = {Link} to = {"/projects"} className = "px-4"> <p className='link'> Projects </p> </Nav.Link>
-              <Nav.Link as = {Link} to = {"/blog"} className = "px-4"> <p className='link'> Blog </p> </Nav.Link>
+              <Nav.Link as = {Link} to = {"/projects/0"} className = "px-4"> <p className='link'> Projects </p> </Nav.Link>
+              <Nav.Link as = {Link} to = {"/blog/0"} className = "px-4"> <p className='link'> Blog </p> </Nav.Link>
 
           </Nav>
           <Form className="d-flex">
