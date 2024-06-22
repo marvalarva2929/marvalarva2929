@@ -10,7 +10,7 @@ const AboutPage = () => {
             <div className="about-wrapper"> 
                 <div className="about-left">
 
-                  <Fade bottom duration="500" cascade>
+                  <Fade bottom duration={500} cascade>
                     
                         <p> Favorite Song: LUV ME </p>
                         <img src={Twice}/>    
@@ -20,7 +20,7 @@ const AboutPage = () => {
                         <img src={Book}/>
                     </Fade>
                 </div>
-            <Fade duration="500" delay="100">
+            <Fade duration={500} delay="100">
                 <div className="about-right">
                     <p> 
                     Hey! My name is Josh, and I'm currently a Junior in High School. I love to learn about the world and create things to benefit it. I've recently been trying to write more about some of my thoughts, hence the creation of this site. You can check out the "blogs" tab above to check out my stuff!

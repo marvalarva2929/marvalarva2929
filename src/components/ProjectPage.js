@@ -63,7 +63,7 @@ const ProjectPage = () => {
                     {
                         cards.map((card, key) => (
                             <Button style={{backgroundColor: "transparent", border: "0px transparent solid"}} as={Link} to={`/projects/${key+1}`} > 
-                                <Fade bottom delay={key*50} duration="500"> 
+                                <Fade bottom delay={key*50} duration={500}> 
                                     <InfoCard title={card.title} subtitle={card.subtitle}/>
                                 </Fade>
                             </Button> 
@@ -72,7 +72,7 @@ const ProjectPage = () => {
                 
                 </div>
 
-            <Fade duration="500" delay="100">
+            <Fade duration= {500} delay="100">
                 <div className="project-right">
                     <Routes>
                         <Route path='/0' element={<> </>}/> 

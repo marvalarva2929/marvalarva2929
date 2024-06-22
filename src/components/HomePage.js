@@ -6,7 +6,7 @@ const HomePage = () => {
     return (
         <> 
             <div className="home-wrapper"> 
-            <Fade bottom cascade duration="500">
+            <Fade bottom cascade duration={500}>
                 <div className="home-left"> 
                     <img src={Joker}/>    
                     <h1> Hi 👋 </h1>
@@ -14,7 +14,7 @@ const HomePage = () => {
                     <p> <i> Take it with a grain of salt </i> </p>
                 </div>
             </Fade>
-            <Fade duration="500" delay="100">
+            <Fade duration={500} delay="100">
                 <div className="home-right">
                    <h4> 
                     <i> “I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.” </i> - Isaac Newton
