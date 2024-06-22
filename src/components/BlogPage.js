@@ -6,6 +6,7 @@ import { Button } from 'react-bootstrap';
 import { Routes, Route } from "react-router-dom";
 import Markdown from 'react-markdown'
 import Giscus from '@giscus/react'
+import React, { useEffect, useState } from 'react'
 
 const socialism = 
 `
@@ -54,6 +55,11 @@ The main motivation for this whole topic was a question that I thought, that if 
 
 const ProjectPage = () => {
 	
+	const [blog, setBlog] = useState(0);
+	
+	useEffect(() => {
+		document.title = cards[blog].title
+	}, [blog])
 
     return (
         <> 
@@ -61,7 +67,7 @@ const ProjectPage = () => {
                 <div className="blog-left">
                     {
                         cards.map((card, key) => (
-                            <Button style={{backgroundColor: "transparent", border: "0px transparent solid"}} as={Link} to={`/blog/${key+1}`} > 
+                            <Button style={{backgroundColor: "transparent", border: "0px transparent solid"}} onClick={() => setBlog(key)} as={Link} to={`/blog/${key+1}`} > 
                                 <Fade bottom delay={key*50} duration="500"> 
                                     <InfoCard title={card.title} subtitle={card.subtitle} date={card.date}/>
                                 </Fade>
@@ -102,21 +108,17 @@ const ProjectPage = () => {
                     </Routes>
 
 					<Giscus
-	 	src="https://giscus.app/client.js"
-        data-repo="marvalarva2929/marvalarva2929"
-        data-repo-id="R_kgDOJV7rfg"
-        data-category="General"
-        data-category-id="DIC_kwDOJV7rfs4CgRsJ"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="dark_tritanopia"
-        data-lang="en"
-        crossorigin="anonymous"
-        async
-					/>
+        	repo="marvalarva2929/marvalarva2929"
+        	repoId="R_kgDOJV7rfg"
+        	category="General"
+        	categoryId="DIC_kwDOJV7rfs4CgRsJ"
+        	mapping="title"
+        	reactionsEnabled="1"
+        	emitMetadata="0"
+        	inputPosition="top"
+        	theme="dark_dimmed"
+        	lang={"en"}
+		/>
                 </div>             
             </Fade>
         </div>
