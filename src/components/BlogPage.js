@@ -5,6 +5,7 @@ import { Link } from "react-router-dom";
 import { Button } from 'react-bootstrap';
 import { Routes, Route } from "react-router-dom";
 import Markdown from 'react-markdown'
+import Giscus from '@giscus/react'
 
 const socialism = 
 `
@@ -99,6 +100,23 @@ const ProjectPage = () => {
                         }
 
                     </Routes>
+
+					<Giscus
+	 	src="https://giscus.app/client.js"
+        data-repo="marvalarva2929/marvalarva2929"
+        data-repo-id="R_kgDOJV7rfg"
+        data-category="General"
+        data-category-id="DIC_kwDOJV7rfs4CgRsJ"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark_tritanopia"
+        data-lang="en"
+        crossorigin="anonymous"
+        async
+					/>
                 </div>             
             </Fade>
         </div>
