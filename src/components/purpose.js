@@ -1,0 +1,22 @@
+const purpose = 
+`
+	I'm not very old, but I think that after a few years it is inevitable that all humans face some sort of problem. Nobody's life is perfect and every once and a while, tragedy, difficulty, or mistakes threaten our security.
+
+And not only this, but we all have some sort of mental image of who we *want* to be: Rich, famous, successful, etc. We often fall short of our desired selves, and I think these shortcomings also add to the "problems" of our lives.
+
+Essentially, I think if you asked someone what they hate most about their life, most of their complaints would either be from events that occured to them or that they went through (tragedy, difficulty), or who they are as a person (wealth, success). "I wish that didn't happen to me", or "I wish I did this instead of that", or "I wish I was like this instead of that".
+
+I hope it is not presumptious of me to assume that I have gone through a fair share of problems and tragedies in my own life, and unsurprisingly have many areas in my life that I feal inadequate in.
+
+Regardless of my desire to become certain things or my dislike of certain traits, or my regrets about past events or decisions, if someone gave me the option to live the life of someone else who had every trait that I longed for and never went through the times I did, I would resolutely refuse. If I had the option to live the life of someone smart like Bill Gates, Albert Einstien, or maybe someone else who lived a life of utter comfort and avoided the mistakes and tragedies I went through, I would again refuse. Why? Do I not desire to become those traits and rid myself of those shameful decisions and experiences?
+
+For me, the answer is that there is value in the things I have experienced. From the outside, my life is not nearly the most successful or admirable, there are people my age with much brighter futures and much more prestigious accomplishments. Maybe they live much happier. And still, I find that the lessons that I have learned through experience is priceless compared to some perceived "value" of life based off of success and accomplishment.
+
+It all boils down to what I really want out of life. And to me, once you can escape a your own head and try to look at life objectively, you realize that life really is nothing but what we experience. Sure, there are people more successful than me, but after we die, the only thing that really "exists" of our lives is our experiences. Consider a person who made a terrible mistake and spent their entire life in prison, or a person who lived their life in complete poverty, or a baby that only got to live 2 years before dying of a disease. All of those lives seem tragic, and yet they still gained something from what we call "life", their experience. At the end of their life, they still had some nuanced understanding of the world they lived in, a worldview that was likely never shared exactly by anyone ever before nor will ever be held again (to an extent). Each was able to touch a different part of truth, regardless of how sad or unaccomplished they were.
+
+This is my goal in life, to experience as much as possible (ideally anyways) rather than wealth or accomplishment. I only have one shot at life, maybe 80, 90 years if I'm lucky, of living. And on my deathbed, I want to think that I didn't waste it; that I knew something about the universe that nobody else before me had and nobody else after me will (again, to an extent). To live the life of a billionare, but to have never known what life really is, to me is a waste.
+
+The main motivation for this whole topic was a question that I thought, that if someone offered me a pill that would make me immortal, would I take it? Would I want to live forever? No, I would not, and for the simple reason that I want to know what death is like. There has not been a single human that was able to escape death, and there has been nobody to come back after dying to tell about how it went. Again, life to me is about experience, and death itself, is one of the most mysterious. Moments before I die, will my life flash before my eyes? Will it all just go quietly? I do not know, but after those moments, *I shall know,* and I think then I will have learned more about what life really is, even if for a short moment. I can die peacefully knowing that in some way I discovered something.
+`
+
+export default purpose

@@ -100,26 +100,32 @@ const ProjectPage = () => {
                         {
                             cards.map((card, key) => (
                                 <> 
-										<Route path={`/${key + 1}`} element=<Markdown children={(card.text)}/> />
+										<Route path={`/${key + 1}`} element={
+											<>
+												<Markdown children={(card.text)}/>
+												<Giscus
+													key={key}
+													repo="marvalarva2929/marvalarva2929"
+													repoId="R_kgDOJV7rfg"
+													category="Announcements"
+													categoryId="DIC_kwDOJV7rfs4CgRsI"
+													mapping="title"
+													strict={1}
+													reactionsEnabled="1"
+													emitMetadata="0"
+													inputPosition="top"
+													theme="dark_dimmed"
+													lang={"en"}
+													async
+												/>
+											</>}/>
                                 </> 
                             ))
                         }
 
                     </Routes>
 
-					<Giscus
-        	repo="marvalarva2929/marvalarva2929"
-        	repoId="R_kgDOJV7rfg"
-        	category="General"
-        	categoryId="DIC_kwDOJV7rfs4CgRsJ"
-        	mapping="title"
-        	reactionsEnabled="1"
-        	emitMetadata="0"
-        	inputPosition="top"
-        	theme="dark_dimmed"
-        	lang={"en"}
-		/>
-                </div>             
+					                </div>             
             </Fade>
         </div>
     </>
