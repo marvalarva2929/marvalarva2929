@@ -8,6 +8,6 @@ www.inclusivecompute.org
 
 www.toysfortexans.org
 
-I don't actually code in C 🤔
+I don't actually code in C 🤔 or roff :skull:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvalarva2929)](https://github.com/anuraghazra/github-readme-stats)
