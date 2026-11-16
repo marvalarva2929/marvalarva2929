@@ -1,4 +1,4 @@
-### joshua vigel
+### Joshua Vigel
 
 cs @ ut austin. inference kernels at [longhorn silicon](https://longhornsilicon.com), a student-led team building an AI accelerator chip.
 
